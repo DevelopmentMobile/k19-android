@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Camera</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="photo_button_label">Capturar Foto</string>
+    <string name="video_button_label">Capturar Vídeo</string>
+    <string name="save_image">Image salva em:\n %1$s</string>
+    <string name="save_vido">Vídeo salvo em:\n %1$s</string>
+
+</resources>

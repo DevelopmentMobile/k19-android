@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/name_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/name" />
+
+    <EditText
+        android:id="@+id/name_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textCapWords" />
+
+    <TextView
+        android:id="@+id/age_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/age" />
+
+    <EditText
+        android:id="@+id/age_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/next_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/next_screen" />
+
+</LinearLayout>

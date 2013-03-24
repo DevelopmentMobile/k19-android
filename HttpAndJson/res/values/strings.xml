@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HttpAndJson</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="phone_label">Telefone: %1$s</string>
+    <string name="address_label">Endereço: %1$s</string>
+    <string name="city_label">Cidade: %1$s</string>
+    <string name="likes_label">Total de likes: %1$s</string>
+
+</resources>

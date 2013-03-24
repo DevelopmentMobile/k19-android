@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notifications</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="attention">Atenção</string>
+    <string name="witch_button_gonna_press">Qual botão você irá apertar?</string>
+    <string name="yes">Sim</string>
+    <string name="pressed_yes">Pressionou sim</string>
+    <string name="no">Não</string>
+    <string name="pressed_no">Pressionou não</string>
+    <string name="wait">Aguarde&#8230;</string>
+    <string name="k19_training">K19 Treinamentos</string>
+    <string name="show_progress_dialog">Mostrar Progress Dialog</string>
+    <string name="show_alert_dialog">Mostrar Alert Dialog</string>
+    <string name="show_custom_dialog">Mostrar Custom Dialog</string>
+    <string name="logo">Logo</string>
+
+</resources>

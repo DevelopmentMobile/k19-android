@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Moda</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_add_category">MainActivity</string>
+    
+    <!-- Messages -->
+    
+    <string name="error_create">Falha ao inserir, %1$s</string>
+    <string name="success_create">%1$s inserido com sucesso.</string>
+    <string name="error_delete">Falha ao deletar, %1$s</string>
+    <string name="success_delete">%1$s removido com sucesso.</string>
+    <string name="no_category">Nenhuma categoria.</string>
+    
+    <!-- Labels e Hints -->
+    <string name="add_category_hint">Nome da categoria</string>
+    <string name="add_category_button">Cadastrar</string>
+
+</resources>
